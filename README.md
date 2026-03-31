@@ -1,5 +1,3 @@
-https://github.com/JohnLloydCostales/OOP101-Final_Project_2.git
-
 # FinalProject2 - The Notepad+++
 
 ## 📖 Description
@@ -19,7 +17,7 @@ It demonstrates object-oriented programming concepts and GUI design using Swing.
 - `README.md` → Documentation
 
 ## 🚀 How to Run
-1. Download the latest release from [Releases]([https://github.com/JohnLloydCostales/OOP101-Final_Project_1/releases](https://github.com/JohnLloydCostales/OOP101-Final_Project_2.git)).
+1. Download the latest release from [Releases](https://github.com/JohnLloydCostales/OOP101-Final_Project_2.git).
 2. Run the JAR file with:
    ```bash
    java -jar FinalProject2_new.jar
